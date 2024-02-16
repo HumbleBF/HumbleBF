@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HumbleBF
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Tableau, Python
+- 🌱 I’m currently learning SQL,Tableau, Python
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me bf.contact.business@gmail.com
 
